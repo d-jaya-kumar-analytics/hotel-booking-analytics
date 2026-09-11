@@ -38,7 +38,7 @@ This project helped me practice:
 
 ## Project File
 
-📄 [View Project Presentation](./Hotel_Booking_Analytics_Project.pdf)
+📄 [View Project Presentation](./Hotel%20Booking%20Project%20Final.pdf)
 
 For now, I have added the project presentation. Supporting source files may be added later.
 
